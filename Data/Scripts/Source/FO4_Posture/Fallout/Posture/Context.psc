@@ -7,7 +7,6 @@ import Papyrus:VersionType
 ;---------------------------------------------
 
 Event OnInitialize()
-	Log = LogNew(Title, self)
 	Required = MQ102
 	RequiredStage = 1
 EndEvent
