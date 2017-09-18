@@ -1,5 +1,5 @@
 Scriptname Fallout:Posture:WeaponLower extends Papyrus:Project:Modules:Required
-import Papyrus:Diagnostics:Log
+import Papyrus:Log
 
 UserLog Log
 
